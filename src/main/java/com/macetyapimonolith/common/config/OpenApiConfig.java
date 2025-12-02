@@ -8,6 +8,7 @@ import io.swagger.v3.oas.models.security.SecurityScheme;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+//implement MQTT connector for ESP32 communication
 @Configuration
 public class OpenApiConfig {
 
