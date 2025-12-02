@@ -9,6 +9,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 //implement MQTT connector for ESP32 communication
+// feat: add watering automation logic in Plant Service
 @Configuration
 public class OpenApiConfig {
 
